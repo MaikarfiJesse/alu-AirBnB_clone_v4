@@ -18,6 +18,11 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Authors](#authors)
 * [License](#license)
 
+## AirBnB clone - Web dynamic
+Request your own API
+Modify and Update an HTML content
+Modify the DOM
+
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
@@ -158,6 +163,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+
+Jesse Maikarfi - [Github](https://github.com/MaikarfiJesse)
 
 Second part of Airbnb: Joann Vuong
 ## License
